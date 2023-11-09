@@ -8,10 +8,14 @@ rendering of the movie catalog.
 
 ## Screenshots
 # Home Page
-![Screenshot (28)](https://github.com/himanshi-rathore/netflix_clone/assets/108826224/8488a3ff-5995-45b1-b399-7d20801b9df5)
-![Screenshot (29)](https://github.com/himanshi-rathore/netflix_clone/assets/108826224/24b2fe57-87c5-4be8-b21c-a0b0e5e92dd0)
+![Screenshot (39)](https://github.com/himanshi-rathore/MovieBox/assets/108826224/1856b3cd-899c-4b90-8ab6-06c82a4e8980)
+![Screenshot (40)](https://github.com/himanshi-rathore/MovieBox/assets/108826224/94ce13e8-60bf-455e-a065-5d5b0f12b4bc)
 # Sign In
-![Screenshot (27)](https://github.com/himanshi-rathore/netflix_clone/assets/108826224/7897475e-c8f7-4e41-9be3-189fc1ae2cd5)
+
+![Screenshot (41)](https://github.com/himanshi-rathore/MovieBox/assets/108826224/2f757d50-bcd3-486b-85c3-0557dd53ce0b)
+
 # Sign Up
-![Screenshot (26)](https://github.com/himanshi-rathore/netflix_clone/assets/108826224/6696bbd6-4ec2-43cf-89e0-67f6be035ecd)
+
+![Screenshot (42)](https://github.com/himanshi-rathore/MovieBox/assets/108826224/4f14089c-ad3f-46e5-ada7-0080227bceeb)
+
 
