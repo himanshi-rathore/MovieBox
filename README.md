@@ -8,14 +8,13 @@ rendering of the movie catalog.
 
 ## Screenshots
 # Home Page
-![Screenshot (39)](https://github.com/himanshi-rathore/MovieBox/assets/108826224/1856b3cd-899c-4b90-8ab6-06c82a4e8980)
-![Screenshot (40)](https://github.com/himanshi-rathore/MovieBox/assets/108826224/94ce13e8-60bf-455e-a065-5d5b0f12b4bc)
-# Sign In
+![Screenshot (39)](https://github.com/himanshi-rathore/MovieBox/assets/108826224/9847dfaf-69a6-4215-a6d0-7e6f16e960a3)
+![Screenshot (40)](https://github.com/himanshi-rathore/MovieBox/assets/108826224/907c77e8-e2a4-47ff-96c4-fa743c6096aa)
 
-![Screenshot (41)](https://github.com/himanshi-rathore/MovieBox/assets/108826224/2f757d50-bcd3-486b-85c3-0557dd53ce0b)
+# Sign In
+![Screenshot (41)](https://github.com/himanshi-rathore/MovieBox/assets/108826224/582d3b0f-dec7-4cf7-83c7-b3cd227e862f)
+
 
 # Sign Up
-
-![Screenshot (42)](https://github.com/himanshi-rathore/MovieBox/assets/108826224/4f14089c-ad3f-46e5-ada7-0080227bceeb)
-
+![Screenshot (42)](https://github.com/himanshi-rathore/MovieBox/assets/108826224/d5f9b4b2-3420-47a4-9b3f-60aae6fc2702)
 
