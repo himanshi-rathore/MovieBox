@@ -1,4 +1,4 @@
-# Netflix Clone
+# MovieBox
 
 •The website includes a user authentication system where users can sign up and log in. React's state management along with firebase capabilities were utilized to handle user authentication.
 
