@@ -46,7 +46,7 @@ function Login() {
                     </p>
                     <p>Need Help?</p>
                 </div>
-                <p className='py-8'><span className='text-gray-600'>New to Netflix?</span>
+                <p className='py-8'><span className='text-gray-600'>New to MovieBox?</span>
                 <Link to='/signup'> Sign Up</Link>
                </p>
             </form>
